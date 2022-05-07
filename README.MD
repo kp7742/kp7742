@@ -13,7 +13,7 @@
 [![GitHub kp7742](https://img.shields.io/github/followers/kp7742?label=follow&style=social)](https://github.com/kp7742)
 
 ### Languages I used the most 💻
-![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kp7742&layout=compact&theme=radical&langs_count=6)
+![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kp7742&layout=compact&theme=slateorange&langs_count=6)
 
 ### My Stats 📈
-![Kuldip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kp7742&count_private=true&show_icons=true&theme=radical)
+![Kuldip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kp7742&count_private=true&show_icons=true&theme=slateorange)
